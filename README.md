@@ -21,4 +21,4 @@
 
 * The incident_date format is set as text, so I have to reformat the column to make it easier for analysis.
 
-<img src="./Before.jpg">
+<img src="/Before.jpg">
