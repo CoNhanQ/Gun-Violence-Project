@@ -15,10 +15,40 @@
     * killed: total number of victims killed
     * injured: total number of victims injured
 
-### Process
+### Cleaning Data
 
 #### Reformat Date:
 
 * The incident_date format is set as text, so I have to reformat the column to make it easier for analysis.
 
+##### Before
 <img src="/img/Before.jpg">
+
+##### After
+<img src="/img/After.jpg">
+
+
+#### Check for duplicate, and remove non-value data
+
+* In this step, I check for duplicate, incorrect, and missing values.
+* Save the cleaned dataset as Clean-US-Gun-Violence.csv.
+
+### Import Data into MySQL Workbench and working on the Analysis
+
+<img src="/img/SQL.jpg">
+
+#### Getting the total of death & injured by Year
+
+<img src="/img/Byyear.jpg">
+
+#### Getting the total of death & Injured by States
+
+<img src="/img/ByState.jpg">
+
+#### Exporting each result into separated CSV files for visualization- Tableau
+
+<img src="/img/csvfile.jpg">
+
+### Analyze data in Tableau
+
+link to tableau: https://public.tableau.com/app/profile/co.nhan/viz/U_SGunViolence2014-2021/Dashboard1
