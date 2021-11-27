@@ -49,6 +49,12 @@
 
 <img src="/img/csvfile.jpg">
 
-### Analyze data in Tableau
+### Visualize data in Tableau
 
 link to tableau: https://public.tableau.com/app/profile/co.nhan/viz/U_SGunViolence2014-2021/Dashboard1
+
+#### What I learn from the analysis:
+
+* 2020 has the most injured victims due to gun violence.
+* In 2021, even though the amount of injured victims due to gun violence fell by ~20%, the amount of death has increased by nearly 3%.
+* Illinois, Texas, and California have the most death and injured victims in the country. 
