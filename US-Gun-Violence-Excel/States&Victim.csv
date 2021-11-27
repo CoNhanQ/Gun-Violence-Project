@@ -1,0 +1,326 @@
+Year,state,city_or_county,"# of Death","# of Injured"
+2014,"New Mexico",Albuquerque,0,8
+2014,Florida,Allapattah,15,99
+2014,Georgia,Athens,14,29
+2014,Illinois,Aurora,54,116
+2014,Maryland,Baltimore,4,36
+2014,Louisiana,"Baton Rouge",11,41
+2014,"New York","Bay Shore",21,76
+2014,California,Bellflower,14,104
+2014,Michigan,"Benton Harbor",5,38
+2014,Alabama,Bessemer,8,22
+2014,"North Carolina",Boone,7,25
+2014,Massachusetts,Boston,1,10
+2014,Mississippi,Brookhaven,1,10
+2014,Texas,Channelview,18,78
+2014,"South Carolina",Charleston,7,20
+2014,Virginia,Chesapeake,3,26
+2014,Pennsylvania,Chester,25,53
+2014,Ohio,Cincinnati,5,40
+2014,Missouri,Columbia,12,51
+2014,Tennessee,Columbia,7,33
+2014,Colorado,Denver,0,5
+2014,Indiana,"East Chicago",7,19
+2014,Arizona,Flagstaff,0,5
+2014,Iowa,"Fort Dodge",1,3
+2014,Connecticut,Hartford,0,9
+2014,Nevada,Henderson,7,22
+2014,Kansas,"Kansas City",0,4
+2014,Washington,Lakewood,0,8
+2014,Arkansas,"Little Rock",0,4
+2014,Kentucky,Louisville,0,13
+2014,Wisconsin,Milwaukee,1,3
+2014,Minnesota,Minneapolis,0,13
+2014,Oklahoma,Muskogee,2,7
+2014,"New Jersey",Newark,5,17
+2014,Nebraska,Omaha,0,5
+2014,Oregon,Portland,0,7
+2014,Utah,"Salt Lake City",3,2
+2014,"District of Columbia",Washington,9,17
+2015,"South Carolina",Abbeville,19,34
+2015,Massachusetts,Abington,0,4
+2015,"New York",Albany,18,65
+2015,Georgia,Albany,13,60
+2015,"New Mexico",Albuquerque,0,4
+2015,Texas,Allen,28,81
+2015,Alaska,Anchorage,1,10
+2015,Alabama,Auburn,17,33
+2015,California,Bakersfield,30,124
+2015,Maryland,Baltimore,5,28
+2015,Vermont,"Barre (Berlin)",0,5
+2015,Florida,"Belle Glade",22,91
+2015,"New Jersey",Camden,27,46
+2015,"West Virginia",Charleston,1,8
+2015,"North Carolina",Charlotte,5,27
+2015,Illinois,Chicago,40,157
+2015,Ohio,Cincinnati,17,32
+2015,Tennessee,Clarksville,11,41
+2015,Colorado,"Colorado Springs",3,24
+2015,Kentucky,Covington,3,13
+2015,Iowa,Davenport,1,3
+2015,Montana,"Deer Lodge",0,10
+2015,Michigan,Detroit,23,69
+2015,Delaware,Dover,4,12
+2015,Missouri,Edgerton,6,62
+2015,Indiana,Evansville,2,33
+2015,Mississippi,Forest,1,12
+2015,Arizona,"Gila Bend",1,18
+2015,Louisiana,Gray,13,58
+2015,Oregon,Gresham,2,9
+2015,Connecticut,Hartford,5,11
+2015,Arkansas,Hensley,2,29
+2015,Nevada,"Las Vegas",5,0
+2015,Maine,Machias,0,11
+2015,Wisconsin,Milwaukee,5,3
+2015,Minnesota,Minneapolis,2,6
+2015,Virginia,Norfolk,10,14
+2015,Oklahoma,"Oklahoma City",0,10
+2015,Nebraska,Omaha,1,4
+2015,Pennsylvania,Philadelphia,9,28
+2015,Washington,Seattle,0,10
+2015,"District of Columbia",Washington,11,31
+2015,Kansas,Wichita,4,5
+2016,"New Mexico",Albuquerque,2,13
+2016,Virginia,Alexandria,10,53
+2016,Alabama,Aliceville,11,38
+2016,California,Antioch,25,184
+2016,Florida,Apopka,20,128
+2016,Georgia,Appling,13,55
+2016,Colorado,Aurora,11,27
+2016,Texas,Austin,32,88
+2016,"North Carolina",Autryville,7,43
+2016,Maryland,Baltimore,6,42
+2016,"South Carolina",Bamberg,10,42
+2016,Louisiana,"Baton Rouge",18,97
+2016,Mississippi,"Bay Saint Louis",58,79
+2016,Michigan,Belleville,11,25
+2016,Illinois,"Blue Island",66,141
+2016,Massachusetts,Boston,9,4
+2016,Washington,Bremerton,0,4
+2016,Connecticut,Bridgeport,6,8
+2016,"New York",Bronx,21,69
+2016,Idaho,Caldwell,0,4
+2016,Wyoming,Cheyenne,1,4
+2016,Ohio,Cincinnati,14,59
+2016,Kansas,Claflin,2,6
+2016,Tennessee,Clarksville,7,47
+2016,Kentucky,Covington,4,24
+2016,Iowa,"Des Moines",3,9
+2016,Pennsylvania,Duquesne,14,61
+2016,Indiana,Evansville,6,19
+2016,"South Dakota",Geddes,0,5
+2016,Arkansas,Helena,2,9
+2016,Missouri,Independence,19,34
+2016,"New Jersey",Irvington,9,31
+2016,Nevada,"Las Vegas",1,19
+2016,Wisconsin,Menasha,4,18
+2016,Minnesota,Minneapolis,8,7
+2016,Oklahoma,"Oklahoma City",1,10
+2016,Nebraska,Omaha,3,5
+2016,Oregon,Portland,1,4
+2016,"Rhode Island",Providence,2,2
+2016,Utah,"Salt Lake City (West",0,4
+2016,"District of Columbia",Washington,9,12
+2016,Delaware,Wilmington,6,3
+2017,Ohio,Akron,22,75
+2017,Florida,Alachua,12,88
+2017,Georgia,Albany,18,88
+2017,Louisiana,Alexandria,16,70
+2017,"South Carolina",Allendale,14,38
+2017,Pennsylvania,Allentown,74,494
+2017,Texas,Amarillo,46,56
+2017,Tennessee,Antioch,19,47
+2017,Colorado,Arvada,6,16
+2017,California,Bakersfield,23,105
+2017,Maryland,Baltimore,8,37
+2017,Alabama,Birmingham,5,38
+2017,"New Jersey",Bloomfield,6,25
+2017,Mississippi,"Bogue Chitto",2,26
+2017,Massachusetts,Boston,2,24
+2017,Kentucky,"Bowling Green",2,16
+2017,"New York",Brooklyn,14,44
+2017,"North Carolina",Charlotte,4,32
+2017,Illinois,Chicago,34,156
+2017,Wisconsin,"Chippewa Falls",5,20
+2017,Michigan,Detroit,16,33
+2017,Arkansas,"Fort Smith",8,26
+2017,Indiana,"Fort Wayne",12,41
+2017,"New Mexico",Gallup,2,6
+2017,Montana,"Great Falls",1,8
+2017,Virginia,Hampton,8,30
+2017,Oregon,"Happy Valley",1,3
+2017,Delaware,Harrington,7,21
+2017,Connecticut,Hartford,0,15
+2017,"West Virginia",Huntington,5,4
+2017,Missouri,"Kansas City",2,24
+2017,Washington,Kent,3,18
+2017,Minnesota,Minneapolis,2,12
+2017,Nevada,"North Las Vegas",1,7
+2017,Oklahoma,"Oklahoma City",0,8
+2017,Nebraska,Omaha,0,6
+2017,Arizona,Phoenix,7,20
+2017,Utah,"Spanish Fork",27,20
+2017,Kansas,Topeka,0,4
+2017,"District of Columbia",Washington,7,6
+2018,Maryland,Aberdeen,16,28
+2018,"South Carolina",Aiken,6,19
+2018,Ohio,Akron,15,51
+2018,Georgia,Albany,3,40
+2018,"New York",Albany,24,79
+2018,Alabama,Albertville,8,19
+2018,"New Mexico",Albuquerque,1,9
+2018,Florida,Altha,23,89
+2018,Texas,Amarillo,29,82
+2018,Indiana,Anderson,3,25
+2018,Tennessee,Antioch,11,40
+2018,Oklahoma,Ardmore,3,35
+2018,California,Bakersfield,29,146
+2018,Pennsylvania,"Beaver Falls",20,77
+2018,Louisiana,Bogalusa,12,49
+2018,Massachusetts,Boston,3,10
+2018,Connecticut,Bridgeport,5,13
+2018,"New Jersey",Bridgeton,7,43
+2018,"North Carolina",Burlington,34,45
+2018,Washington,Burlington,0,18
+2018,Mississippi,Canton,8,30
+2018,Colorado,Capulin,5,10
+2018,Illinois,Champaign,48,128
+2018,Iowa,Davenport,6,13
+2018,Michigan,Detroit,10,29
+2018,Delaware,Dover,0,4
+2018,Arizona,Glendale,0,29
+2018,Utah,Grantsville,0,4
+2018,Oregon,Gresham,2,7
+2018,Missouri,"Kansas City",3,41
+2018,Kentucky,Lexington,3,21
+2018,Arkansas,"Little Rock",1,3
+2018,"New Hampshire",Manchester,3,1
+2018,Wisconsin,Milwaukee,2,10
+2018,Minnesota,Minneapolis,2,15
+2018,Virginia,Norfolk,18,31
+2018,Nevada,"North Las Vegas",0,6
+2018,Nebraska,Omaha,0,6
+2018,"Rhode Island",Providence,3,1
+2018,Kansas,Topeka,0,9
+2018,"District of Columbia",Washington,6,15
+2019,Ohio,Akron,21,90
+2019,"New York",Albany,23,44
+2019,Michigan,Albion,18,66
+2019,"New Mexico",Albuquerque,1,11
+2019,California,"Aliso Viejo",40,158
+2019,"South Carolina",Allendale,13,42
+2019,Alaska,Anchorage,2,2
+2019,Texas,Arlington,15,72
+2019,"New Jersey","Asbury Park",11,38
+2019,Georgia,Atlanta,11,63
+2019,Colorado,Aurora,4,16
+2019,Illinois,Aurora,78,210
+2019,Louisiana,Baker,38,96
+2019,Maryland,Baltimore,25,34
+2019,Mississippi,Batesville,8,42
+2019,Alabama,"Bessemer (Brighton)",8,35
+2019,Massachusetts,Boston,7,26
+2019,Arkansas,Brinkley,1,28
+2019,Florida,Brownsville,21,101
+2019,Iowa,"Cedar Rapids",0,4
+2019,"North Carolina",Charlotte,13,53
+2019,Virginia,Chesapeake,7,63
+2019,Tennessee,Clarksville,7,23
+2019,Delaware,Claymont,6,3
+2019,Missouri,Columbia,11,72
+2019,Pennsylvania,Effort,16,60
+2019,Indiana,Elkhart,18,62
+2019,Minnesota,"Excelsior (Greenwood",12,30
+2019,Connecticut,Hamden,1,5
+2019,Wisconsin,Janesville,4,13
+2019,Kansas,"Kansas City",0,13
+2019,Nevada,"Las Vegas",1,11
+2019,Kentucky,Louisville,0,20
+2019,Arizona,Mesa,4,19
+2019,Oklahoma,"Oklahoma City",1,27
+2019,Nebraska,Omaha,1,3
+2019,Utah,Sandy,1,4
+2019,Washington,Seattle,10,20
+2019,"District of Columbia",Washington,7,30
+2020,Georgia,Acworth,9,107
+2020,Ohio,Akron,24,79
+2020,"New Mexico",Albuquerque,3,30
+2020,Virginia,Alexandria,5,28
+2020,Texas,Allen,45,213
+2020,Michigan,Allendale,25,89
+2020,Illinois,Alton,59,219
+2020,California,Anaheim,39,325
+2020,Alaska,Anchorage,2,6
+2020,"South Carolina",Anderson,3,38
+2020,"New York","Arverne (Queens)",11,69
+2020,"North Carolina",Asheville,16,48
+2020,Arkansas,Atkins,9,33
+2020,Colorado,Aurora,12,39
+2020,Maryland,Baltimore,18,83
+2020,Louisiana,"Baton Rouge",21,111
+2020,Nebraska,Bellevue,1,7
+2020,Alabama,Birmingham,11,67
+2020,Massachusetts,Boston,3,30
+2020,Pennsylvania,Braddock,33,131
+2020,Connecticut,Bridgeport,1,36
+2020,Mississippi,Brookhaven,4,41
+2020,Tennessee,Brownsville,7,129
+2020,Minnesota,Buffalo,4,17
+2020,Missouri,"Cape Girardeau",12,52
+2020,Arizona,"Casa Grande",6,13
+2020,Florida,"Daytona Beach",29,131
+2020,Iowa,"Des Moines",1,7
+2020,Indiana,Evansville,16,75
+2020,Washington,Everett,12,25
+2020,Kentucky,Garrison,9,33
+2020,Oregon,Gresham,12,12
+2020,Kansas,Hesston,1,19
+2020,"New Jersey","Jersey City",9,50
+2020,Nevada,"Las Vegas",3,16
+2020,Wisconsin,Madison,12,23
+2020,Maine,Madison,1,4
+2020,Oklahoma,"Oklahoma City",2,8
+2020,"Rhode Island",Providence,0,13
+2020,Utah,"Salt Lake City",0,7
+2020,"South Dakota","Sioux Falls",1,9
+2020,"District of Columbia",Washington,19,62
+2020,"West Virginia",Williamsburg,1,3
+2020,Delaware,Wilmington,2,2
+2021,California,Aguanga,45,234
+2021,"South Carolina",Aiken,28,76
+2021,Alabama,Akron,23,64
+2021,"New York",Albany,37,119
+2021,Georgia,Albany,20,106
+2021,Louisiana,Alexandria,19,64
+2021,Maryland,Annapolis,12,68
+2021,"New Jersey","Atlantic City",10,87
+2021,Colorado,Aurora,2,16
+2021,Texas,Austin,35,143
+2021,Washington,Belfair,13,36
+2021,Kentucky,Benton,2,15
+2021,Arkansas,Blytheville,3,11
+2021,Massachusetts,Boston,3,24
+2021,Florida,"Boynton Beach",16,136
+2021,Tennessee,Bristol,19,85
+2021,Illinois,Carbondale,63,191
+2021,"North Carolina",Charlotte,12,70
+2021,Virginia,Chesapeake,17,60
+2021,Ohio,Cincinnati,21,61
+2021,Iowa,Coralville,1,8
+2021,Michigan,Detroit,5,57
+2021,Mississippi,Drew,11,36
+2021,Arizona,"El Mirage",7,35
+2021,Pennsylvania,Erie,25,95
+2021,Indiana,Evansville,6,47
+2021,Missouri,Fulton,35,95
+2021,Connecticut,Hartford,1,4
+2021,Nevada,Henderson,9,25
+2021,Kansas,"Kansas City",4,19
+2021,"New Mexico","La Madera",0,4
+2021,Wisconsin,Madison,5,26
+2021,Minnesota,Minneapolis,13,20
+2021,Nebraska,Omaha,0,4
+2021,Oregon,Portland,6,9
+2021,Oklahoma,Tulsa,0,6
+2021,"District of Columbia",Washington,4,34
+2021,Delaware,Wilmington,0,5
