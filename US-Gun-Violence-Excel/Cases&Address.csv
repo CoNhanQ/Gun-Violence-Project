@@ -1,0 +1,309 @@
+state,city_or_county,address,Cases
+California,"Los Angeles","7630 NW 186th St",23
+California,Oakland,"4802 Noland Rd",17
+California,Stockton,"4601 Kellogg Ave",17
+California,"San Francisco","2918 Rimpau Blvd",15
+California,Alturas,"Piggly Wiggly Dr and W Jimtown Dr",14
+California,Wilmington,"Martin Luther King Dr and E 4th St",13
+California,Fairfield,"7432 Universal Blvd",12
+California,Richmond,"700 block of Canal St",12
+California,Sacramento,"2 Independent Dr",12
+California,Stockton,"641 Archer Ave",12
+California,"Long Beach","2939 Hennepin Ave S",11
+California,"Los Angeles","1701 White Horse Rd",10
+California,"Los Angeles","700 block of Bourbon St",10
+California,Sacramento,"5361 E Lamona Ave",10
+California,Antioch,"1850 28th Street SE",9
+California,Coachella,"10150 I-10 Service Rd",9
+California,Goleta,"Marcellus St and Wyoming St",9
+California,Oakland,"110 Calhoun Street",9
+California,"Palm Springs","2900 Travis St",9
+California,Pasadena,"915 Plantation Blvd",9
+California,"San Bernardino","1800 block of Beatties Ford Rd",9
+California,"San Bernardino","900 block of West Victoria Street",9
+California,"San Fernando","322 N 1st Ave",9
+California,"San Francisco","1200 block of W Helen Ave",9
+California,Bellflower,"Royal Street",8
+California,Compton,"4000 block of West Southern Avenue",8
+California,Fresno,"2200 block of Lakeshore Ave",8
+California,"Los Angeles","13210 Memorial Dr",8
+California,"Los Angeles","420 14th Street",8
+California,Modesto,"Dibble St and Rail St",8
+California,Pomona,"1100 block of Kansas Avenue",8
+California,Sacramento,"8900 block of S Cottage Grove Ave",8
+California,"San Diego","2500 N Mayfair Rd",8
+California,Windsor,"2nd Ave N and Commerce St",8
+California,Bakersfield,"5312 Thomas Drive",7
+California,Compton,"1113 4th Ave",7
+California,"East Palo Alto","3804 S Court St",7
+California,Highland,"2928 W Kentucky St",7
+California,Livermore,"300 block of W Park Ave",7
+California,"Los Angeles","9161 Rainbow Hwy",7
+California,"Los Angeles","1200 block of Mt Olivet Rd NE",7
+California,"Los Angeles","2901 W 28th Ave",7
+California,"Moreno Valley","502 Boulevard",7
+California,Pomona,"1900 block of Jacksonville Rd",7
+California,Sacramento,"2466 East Lancaster Avenue",7
+California,Sacramento,"861 W. 36th Street",7
+California,"San Bernardino","5801 NW 27th Ave",7
+California,"San Bernardino","Ira St and Bass St SW",7
+California,Stockton,"1600 block of W 65th St",7
+California,Bakersfield,"3500 block of W Van Buren St",6
+California,Bakersfield,"1800 2nd Ave",6
+California,Ceres,"1100 block of Conley Street",6
+California,Coachella,"417 Fayette St",6
+California,Fresno,"10000 block of Carmentia Rd",6
+California,Fresno,"200 block of Lorenz Blvd",6
+California,"Long Beach","565 US-80",6
+California,"Los Angeles","4932 Eaglesmere Dr",6
+California,"Los Angeles","660 Manwell Blvd",6
+California,"Los Angeles","4225 Galley Rd",6
+California,"Los Angeles","351 N Mosley St",6
+California,"Los Angeles","4766 Redan Rd",6
+California,"Los Angeles","5200 block of Zodiac Rd",6
+California,"Los Angeles","Emerson St and Spring Park Rd",6
+California,Perris,"1500 block of Azalea Garden Rd",6
+California,"Riverside (Jurupa Va","420 E Monroe Ave",6
+California,Sacramento,"91st Street and Western Avenue",6
+California,"San Bernardino","4900 West Race Ave",6
+California,"San Diego","Suzanne Dr and Robinson Dr",6
+California,"San Diego","1716 Prentice St",6
+California,"San Francisco","800 block of E Dayton St",6
+California,"San Francisco","Rosa Parks Boulevard and Godwin Avenue",6
+California,"San Jose","21901 Roscoe Boulevard",6
+California,"San Jose","761 Chestnut Ave",6
+California,Stockton,"2600 block of Carroll St",6
+California,Stockton,"4000 block of Penhurst Ave",6
+California,Thermal,"5611 108th St NE",6
+California,Torrance,"4007 E State St",6
+California,"Aliso Viejo","7000 block of E. Kirby",5
+California,Bakersfield,"698 Peoria St",5
+California,Compton,"3400 block of Devonshire",5
+California,Compton,"400 block of S Maplewood Dr",5
+California,Fresno,"6761 Winchester Rd",5
+California,Fresno,"N Main St and Jefferson St",5
+California,Fresno,"1700 block of Southcrest Drive",5
+California,Fresno,"2300 block of Greenmount Ave",5
+California,Fresno,"648 E Court St",5
+California,Gilroy,"16379 Euclid Ave",5
+California,"Huntington Beach","524 N Anderson Rd",5
+California,Inglewood,"30th St and Cumberland St",5
+California,Inglewood,"7th Street NE",5
+California,"Long Beach","32992 Mission Blvd",5
+California,"Long Beach","Fourth Street",5
+California,"Los Angeles","Springfield Avenue ",5
+California,"Los Angeles","25 Par Drive",5
+California,"Los Angeles","4745 N Richardt Ave",5
+California,"Los Angeles","100 block of Bourbon St",5
+California,"Los Angeles","136 Sturges Ave",5
+California,"Los Angeles","14000 block of Grace Ave",5
+California,"Los Angeles","200 block of 6th Ave",5
+California,"Los Angeles","2000 block of East John Avenue",5
+California,"Los Angeles","500 block of East 43rd Street",5
+California,"Los Angeles (Hollywo","1100 block of William Ct",5
+California,"Los Angeles (Watts)","312  E Baseline Street ",5
+California,Norwalk,"St Elizabeth St and Front St",5
+California,Oakland,"11445 Brian Lakes Drive",5
+California,Oakland,"1900 block of N 14th St",5
+California,Oakland,"1097 South First St.",5
+California,Oakland,"1406 Good Hope Rd SE",5
+California,Oakland,"Union St and Ocean Ave",5
+California,Oakland,"1305 Grant St",5
+California,Oakland,"1800 block of W. North Avenue",5
+California,Oakland,"22nd Ave and E 30th St",5
+California,Oakland,"300 block of North St",5
+California,Oakland,"3964 10th Ave",5
+California,Orange,"7112 W Minnezona Ave",5
+California,Pacoima,"650 Turner Rd",5
+California,Palmdale,"300 block of Lacey St",5
+California,"Panorama City","2340 W Northern Ave",5
+California,Perris,"500 block of E 7th St",5
+California,Poway,"2335 NW 16th Ct",5
+California,Riverside,"1214 Foxhill Dr",5
+California,Sacramento,"219 S Howard Ave",5
+California,Sacramento,"809 Mesopotamia St",5
+California,Sacramento,"100 block of Tiny Town Rd",5
+California,Sacramento,"1400 block of W Conlyn St",5
+California,Sacramento,"600 block of Yale St",5
+California,Salinas,"California Avenue and Martin Luther King Jr. Boule",5
+California,"San Bernardino","2105 Buffalo Rd",5
+California,"San Diego","4669 Bell Road SE",5
+California,"San Diego","E 18th St and Vine St",5
+California,"San Diego","Ojai-Santa Paula St",5
+California,"San Francisco","2600 South Flores Street",5
+California,"San Francisco","1002 Main St",5
+California,"San Jose","200 block of N Broad St",5
+California,"San Jose","Countryside Dr and Littlejohn Dr",5
+California,"San Leandro","5100 block of South Morgan Street",5
+California,"Santa Monica","7 15th St W",5
+California,"Santa Paula","Oliver Avenue",5
+California,"Santa Rosa","2000 block of 20th St",5
+California,Stockton,"2339 Stricklands Crossroads Road",5
+California,Stockton,"Starr Ln and County Rd 2",5
+California,"Union City","500 block of S 15th St",5
+California,Vallejo,"4500 block of N 19th St",5
+California,Visalia,"2400 block of Martin Luther King Boulevard",5
+California,Wasco,"1623 E. Hudson Street",5
+California,Whittier,"East 3rd Ave and Gambell St",5
+California,Yucaipa,"1850 Deming Way",5
+California,Aguanga,"2700 block of Bloomington Ave",4
+California,Anaheim,"181 Hegeman Ave",4
+California,Bakersfield,I-64,4
+California,Bakersfield,"Sandyland Cir and CR 823",4
+California,Bakersfield,"3600 block of New York Ave NE",4
+California,Bakersfield,"7300 block of S Artesian Ave",4
+California,"Baldwin Park","3500 block of W Walnut St",4
+California,Banning,"First St and Lexington Ave",4
+California,"Beverly Hills","4300 block of Welbourne Road",4
+California,"Canoga Park","1700 block of Brighton Pl",4
+California,Ceres,"100 block of E Maple St",4
+California,"Citrus Heights","3300 block of Fallen Leaf Ln",4
+California,Clearlake,"400 President Clinton Ave",4
+California,"Clearlake Oaks","700 block of Noyes St",4
+California,"Clearlake Oaks","Service Rd and Holcombe Blvd",4
+California,Compton,"Museum Cir",4
+California,Compton,"3500 block of Madison Street",4
+California,Compton,"East El Monte Way and Recreation Avenue",4
+California,Corning,"6718 S Stony Island Ave",4
+California,Delano,"6610 S Sam Houston Pkwy W",4
+California,Delano,"1000 block of Feliz Drive",4
+California,Fontana,"North 15th and H Streets",4
+California,Fresno,"700 South Foushee St",4
+California,Fresno,"1200 block of W Carlas Ln",4
+California,Fresno,"181 Rockaway Pky",4
+California,Fresno,"84th and Q",4
+California,Fresno,"I-57 and W 127th St",4
+California,Fresno,"Sahler St and N 48th St",4
+California,Gardena,"420 North Garvin Street",4
+California,Gardena,"700 block of 17 1/2 St",4
+California,Hayward,"13600 block of Central Park Ave",4
+California,Hemet,"27000 block of Rosewood St",4
+California,Hesperia,"844 E. Devonshire St",4
+California,Ivanhoe,"114 Hickory St",4
+California,"La Jolla","1915 N Bluff St",4
+California,Lebec,"1000 block of Cecil Ave",4
+California,"Long Beach","1200 block of N Luzerne Ave",4
+California,"Long Beach","1280 Summit St",4
+California,"Long Beach","2136 North Lobdell Avenue",4
+California,"Long Beach (North Lo","3200 W Division St",4
+California,"Los Angeles","127 Jackson St",4
+California,"Los Angeles","500 block of Dutterow Road SE",4
+California,"Los Angeles","3164 E Main St",4
+California,"Los Angeles","2025 Sparkman Dr NW",4
+California,"Los Angeles","E 233rd St and Bronx River Pkwy",4
+California,"Los Angeles","1200 block of 7th St S",4
+California,"Los Angeles","1200 block of East Highland Ave",4
+California,"Los Angeles","160 Easy Shopping Place",4
+California,"Los Angeles","180th St and 145th Dr",4
+California,"Los Angeles","2200 block of East 70th Place",4
+California,"Los Angeles","23500 block of Alessandro Blvd",4
+California,"Los Angeles","3233 Diplomat Dr",4
+California,"Los Angeles","514 19th St Ensley",4
+California,"Los Angeles","6035 S M L King Jr Pkwy",4
+California,"Los Angeles","87th Ave and Thomas Rd",4
+California,"Los Angeles","Bostwick Avenue",4
+California,"Los Angeles","SC 72 Bypass",4
+California,"Los Angeles","W Ferry St and Niagara St",4
+California,"Los Angeles (Boyle H","E Market St and Tower of the Americas Way",4
+California,Manteca,"501 W Cherry St",4
+California,Merced,"1000 block of W 89th St",4
+California,Modesto,"1100 block of Eastern Blvd",4
+California,Modesto,"500 block of Hawthorne Drive",4
+California,Modesto,"57th Street and South Normandie Avenue",4
+California,"Moreno Valley","2450 Harbour Dr",4
+California,"North Hollywood","801 Garrison Ave",4
+California,Oakland,"16241 TX-110",4
+California,Oakland,"2700 block of Lynnwood Ave",4
+California,Oakland,"3300 Garden Oaks Drive",4
+California,Oakland,"100 block of Roosevelt Avenue",4
+California,Oakland,"300 block of E. Green St",4
+California,Oakland,"4200 block of S Talman",4
+California,Oakland,"6800 block of Atwood St",4
+California,Oakland,"1100 block of Riverview",4
+California,Oakland,"1849 East Brooks Road ",4
+California,Oakland,"2700 block of San Jacinto Ave",4
+California,Oakland,"2700 block of West Lexington",4
+California,Oakland,"3100 block of Sunshine Avenue",4
+California,Oakland,"3400 West 24th Street",4
+California,Oakland,"4272 Bonny Oaks Drive",4
+California,Oakland,"4926 Becker Dr",4
+California,Oakland,"828 W 9th Street",4
+California,Oakland,"9100 block of South Ellis Ave",4
+California,Oakland,"Wethersfield Avenue and Elliott Street",4
+California,Oceano,"225 Riley Ave",4
+California,Orinda,"12500 block of E Kansas Pl",4
+California,"Palo Alto (East Palo","3344 W Ohio St",4
+California,Pasadena,"New Orleans and North Rocheblave streets",4
+California,"Paso Robles","900 block of E 79th St",4
+California,Pittsburg,"Greenmount Avenue",4
+California,"Red Bluff","700 block of N Hickory St",4
+California,Richmond,"100 block of Rotary St",4
+California,Richmond,"1200 block of S Avers Ave",4
+California,Richmond,"200 block of  Brownsville Road",4
+California,Richmond,"6700 block of South Winchester Avenue",4
+California,Riverside,"1600 block of Panola Rd",4
+California,Riverside,"325 La Grande Ave",4
+California,Riverside,"Kaighn Ave and Haddon Ave",4
+California,Riverside,"W Wilson Ave and N Sheridan Rd",4
+California,Sacramento,"302 East Reed Street",4
+California,Sacramento,"1800 E Main St",4
+California,Sacramento,"2024 N Washington Ave",4
+California,Sacramento,"348 S Orange Ave",4
+California,Sacramento,"89th St and Hobart Ave",4
+California,Sacramento,"9439 Lima Rd",4
+California,Sacramento,"800 block of Lincoln St",4
+California,Sacramento,"East 126th Street and North Compton Avenue",4
+California,Sacramento,"Joppa Ave",4
+California,Sacramento,"Rockaway Pkwy and Ave B",4
+California,Sacramento,"SW 59th St and Agnew Ave",4
+California,Salinas,"MacArthur Fwy and 106th Ave",4
+California,Salinas,"NE 181st Ave and NE San Rafael St",4
+California,"San Bernardino","1300 block of Reddington Lane",4
+California,"San Bernardino","3800 block of N Sherman Dr",4
+California,"San Bernardino","500 block of E. Patapsco Avenue",4
+California,"San Diego","4700 block of S Fairfield Ave",4
+California,"San Diego","W Washington Blvd and N Hamlin Blvd",4
+California,"San Diego","1200 block of West 25th Street",4
+California,"San Diego","5200 block of Canton St",4
+California,"San Francisco","100 block of Pastorius St",4
+California,"San Francisco","200 block of S. Clinton St",4
+California,"San Francisco","7460 S Westmoreland Rd",4
+California,"San Francisco","1600 NE 8th Ave",4
+California,"San Francisco","4000 block of Bells Ln",4
+California,"San Francisco","5451 Springfield Ave",4
+California,"San Francisco","5700 block of Hallandale Beach Blvd",4
+California,"San Francisco","700 block of Milton St",4
+California,"San Francisco","7000 block of S Vincennes Ave",4
+California,"San Francisco","9700 Homestead Rd",4
+California,"San Francisco","Whitaker Street",4
+California,"San Jose","2500 block of E Monument St",4
+California,"San Jose","1800 block of Hart Ln",4
+California,"San Jose","1915 Olive St",4
+California,"San Pedro","Sip and Van Wagenen avenues",4
+California,"San Rafael","2000 block of Ben Hur St.",4
+California,"Santa Ana","10601 S Western Ave",4
+California,"Santa Barbara","1200 block of E. 17th Street",4
+California,"Santa Clarita","1205 W Chicago Ave",4
+California,"Santa Maria","200 Berry Street",4
+California,"Santa Rosa","5125 Wynell Street",4
+California,Stockton,"8622 Belfast St",4
+California,Stockton,"20th St and Roosevelt Ave",4
+California,Stockton,"2300 block of 15th St NE",4
+California,Stockton,"2424 Sullivant Ave",4
+California,Stockton,"514 E 156th St",4
+California,Sylmar,"700 block of Chalfonte Pl",4
+California,"Thousand Oaks","3200 block of East Clay Avenue",4
+California,Torrance,"300 block of South Meridian Street",4
+California,Tracy,"500 block of South Alexander Street",4
+California,Tulare,"100 block of Kenwood Rd",4
+California,Vallejo,"900 block of N Sierra Way",4
+California,Vallejo,"2418 SW Military Dr",4
+California,Vallejo,"323 Irvington Ave",4
+California,Vallejo,"5500 block of Fairfield Road",4
+California,Vallejo,"Emerald St and E Atlantic St",4
+California,"Valley Village","5000 block of Drew Avenue North",4
+California,"Walnut Creek","2968 Emerson Ave S",4
+California,"West Covina","2015 Orange Blossom Trail",4
+California,Wilmington,"1400 block of W. 114th Place",4
+California,Wilmington,"Sheridan Road",4
+California,"Yuba City","Lincoln Park and Pennsylvania Avenue",4

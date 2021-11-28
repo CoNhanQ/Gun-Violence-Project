@@ -25,6 +25,7 @@
 ##### Before
 <img src="/img/Before.jpg">
 
+
 ##### After
 <img src="/img/After.jpg">
 
@@ -46,6 +47,26 @@
 
 <img src="/img/ByState.jpg">
 
+#### Total cases in States
+
+<img src="/img/state&case.jpg">
+
+#### Top 5 worst incident (death)
+
+<img src="/img/worst-cases.jpg">
+
+#### Top 5 worst incident (injured)
+
+<img src="/img/worst-injured.jpg">
+
+#### Gun violence in California between 2014-2021
+
+<img src="/img/California-death-injured.jpg">
+
+#### Gun violence cases in California broken down by address
+
+<img src="/img/case&address.jpg">
+
 #### Exporting each result into separated CSV files for visualization- Tableau
 
 <img src="/img/csvfile.jpg">
@@ -58,4 +79,5 @@ link to tableau: https://public.tableau.com/app/profile/co.nhan/viz/U_SGunViolen
 
 * 2020 has the most injured victims due to gun violence.
 * In 2021, even though the amount of injured victims due to gun violence fell by ~20%, the amount of death has increased by nearly 3%.
-* Illinois, Texas, and California have the most death and injured victims in the country.
+* Illinois, Texas, and California have the most death and injured cases in the country.
+* Los Angeles, Oakland, Stockton, San Francisco, Alturas have the most cases of gun violence in California.
